@@ -1,0 +1,14 @@
+{
+  "name": "pokemonjs",
+  "version": "1.0.0",
+  "description": "pokemon game to play with javascript concepts",
+  "main": "pokemon.js",
+  "scripts": {
+    "test": "node ./testRunner.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
